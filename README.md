@@ -8,5 +8,5 @@
 - высокая скорость
 - ответвенность за результат
 
-![котик.jpeg](/Users/sasha/Desktop/iOs_Study/Новая папка с объектами/git_diplom/img/котик.jpeg)
+![котик.jpeg](/img/котик.jpeg)
 
