@@ -1,14 +1,13 @@
-# Поликарпов Александр Алексеевич
+# Polikarpov Aleksandr
 
 
 
-Утром 21 марта 1991 года, на свет появился крепкий малыш, по имени Александр, которому суждено было сидеть и писать эту курсовую.
-Если гооврить серьезно, то я являюсь человеком, который очень любит решать сложные задачи,
-любит, когда работа не превращается в рутину, ну и когда ты видишь результат совей работы, а не работаешь на корзину
+On the morning of March 21, 1991, a strong little boy named Aleksander was born, who was destined to sit and write this coursework.
+But speaking seriously, I am a person who loves to solve complex tasks, enjoys when work does not turn into routine, and when you see the result of your work, rather than just working for the sake of it.
 
-- повышенная работоспособность
-- высокая скорость
-- ответвенность за результат
+- High work capacity
+- Fast-paced
+- Responsibility for the result.
 
-![котик.jpeg](/img/котик.jpeg)
+![3P6A6509.JPG](/img/3P6A6509.JPG)
 
